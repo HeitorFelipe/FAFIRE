@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BIBLIOTECA</title>
+</head>
+<body>
+	<h1>FAFIRE</h1>
+	<a href="page5.html">NOTAS</a>
+	<script type="text/javascript">
+		alert('Biblioteca Virtual!');
+	</script>	
+</body>
+</html>
