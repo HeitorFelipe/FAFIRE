@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FINANCEIRO</title>
+</head>
+<body>
+	<script type="text/javascript">
+		alert('Pague seu Boleto!');
+	</script>
+	<h1>FAFIRE</h1>
+	<a href="page4.html">BIBLIOTECA</a>
+</body>
+</html>
